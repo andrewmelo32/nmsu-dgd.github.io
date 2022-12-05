@@ -192,7 +192,7 @@ Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0
 
 <img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
 
-[Rat-Man](/Rat-Man/ratman.html) \| [v0.2](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.2)
+[Rat-Man](/Rat-Man/ratman.html) \| [v1.0](https://github.com/andrewmelo32/Rat-Man/releases/tag/v1.0)
 
 ### Snake - Michael Medrano
 
